@@ -1,7 +1,7 @@
 {
-  "name": "prediction-component-ui",
+  "name": "heron-component-ui",
   "version": "1.0.0",
-  "description": "Component library for Prediction App",
+  "description": "Component library for Heron Data App",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
